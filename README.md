@@ -20,4 +20,5 @@ npm install
   
 # Start local server (optional)
 npm start
+npm run dev
 
